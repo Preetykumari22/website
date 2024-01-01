@@ -8,4 +8,4 @@ sudo service apache2 status
 sudo rm index.html
 sudo nano index.html #typed my website code
 sudo service apache2 restart
-#
+
